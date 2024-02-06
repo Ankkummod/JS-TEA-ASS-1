@@ -71,6 +71,5 @@ function convertNumberToWords(number) {
             }
         }
     }
-
     return words.trim();
 }
